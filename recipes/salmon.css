@@ -1,0 +1,38 @@
+body {
+    color: black;
+    background-image: url(https://images.creativemarket.com/0.1.0/ps/9330711/1820/1213/m1/fpnw/wm1/wpq5rjbvkl3mvffb6kq95dc6cgozr3d61atoweeyzhd5dte9ronhun23iqbz2a1m-.jpg?1604347264&s=85b5a47a9db949752811c6d6cdd16a55);
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    margin-left: 680px;
+    width: 500px;
+}
+
+h2 {
+    text-align: center
+}
+
+p {
+    text-align: center
+}
+
+h3 {
+    text-align: center
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+ol {
+    margin-left: 650px;
+    width: 500px;
+    padding-bottom: 50px;
+}

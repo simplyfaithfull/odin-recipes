@@ -1,0 +1,32 @@
+/*styles.css*/
+
+h1 {
+    color: black;
+    font-family: sans-serif;
+    text-align: center
+
+}
+
+body {
+    color: black;
+    background-image: url(https://images.creativemarket.com/0.1.0/ps/9330711/1820/1213/m1/fpnw/wm1/wpq5rjbvkl3mvffb6kq95dc6cgozr3d61atoweeyzhd5dte9ronhun23iqbz2a1m-.jpg?1604347264&s=85b5a47a9db949752811c6d6cdd16a55);
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+.navigation ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: black;
+    font-size: 24px;
+}
+
+img {
+    margin-left: 650px;
+}
+
+
